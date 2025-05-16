@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 May 2025 00:47:33 at https://srbooks.odoo.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://srbooks.odoo.com/ -O1 "C:\Desktop\ODOO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:48:42	Error: 	"NOT FOUND" (404) at link https://srbooks.odoo.com/"/web/image/938-5e61402a/cr%3Dw%3A1200%2Ch%3A600" (from https://srbooks.odoo.com/)
+00:48:59	Error: 	"NOT FOUND" (404) at link https://srbooks.odoo.com/"/web_editor/shape/web_editor/Connections/20.svg?c5=o-color-1&flip=y%22 (from https://srbooks.odoo.com/our-services)
+00:48:59	Error: 	"NOT FOUND" (404) at link https://srbooks.odoo.com/"/web_editor/shape/web_editor/Connections/20.svg?c5=o-color-4%22 (from https://srbooks.odoo.com/about-us)
+00:48:59	Error: 	"NOT FOUND" (404) at link https://srbooks.odoo.com/"/web/image/934-c621f4fd/How to Download Thousands of Classic Books and Movies That Just Entered the Public Domain.jpg" (from https://srbooks.odoo.com/contactus)
+00:49:02	Error: 	"NOT FOUND" (404) at link https://srbooks.odoo.com/forum/'/web/image/forum.forum/1/image_1920?unique=73409ea' (from https://srbooks.odoo.com/forum/help-1)
+00:49:09	Warning: 	MOVED PERMANENTLY for https://srbooks.odoo.com/forum/help-1/
+00:49:09	Warning: 	File has moved from https://srbooks.odoo.com/forum/help-1/ to /forum/help-1
+00:49:23	Error: 	"NOT FOUND" (404) at link https://srbooks.odoo.com/forum/help-1/'/web/image/forum.forum/1/image_1920?unique=73409ea' (from https://srbooks.odoo.com/forum/help-1/faq)
+00:49:27	Error: 	"NOT FOUND" (404) at link https://srbooks.odoo.com/forum/help-1/faq/'/web/image/forum.forum/1/image_1920?unique=73409ea' (from https://srbooks.odoo.com/forum/help-1/faq/karma)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 57 seconds : 274 links scanned, 265 files written (4052441 bytes overall) [2764337 bytes received at 23626 bytes/sec], 2199052 bytes transferred using HTTP compression in 44 files, ratio 22%, 148.3 requests per connection
+(7 errors, 2 warnings, 0 messages)
